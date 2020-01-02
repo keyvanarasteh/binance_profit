@@ -1,4 +1,4 @@
-[logo]: https://github.com/keyvanarasteh/binance_profit/raw/master/assets/bprologo.png "Binance Futures real-profit live calculator"
+[logo]: https://raw.githubusercontent.com/keyvanarasteh/binance_profit/master/assets/bprologo.png "Binance Futures real-profit live calculator"
 
 # Binance Futures real-profit calculator (live)
 
