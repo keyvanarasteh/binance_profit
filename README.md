@@ -2,6 +2,10 @@
 
 # Binance Futures real-profit calculator (live)
 
+when we have open positions on binance future trading platform, it calculates MAKER_FEE+TAKER_FEE and REAL PROFIT.
+
+its very usefull for future traders.
+
 ## Supported browsers : 
   - Chrome 
   - Firefox
